@@ -1,0 +1,14 @@
+[
+  {
+    "id": 2,
+    "categoria": "comida",
+    "valor": 500.0,
+    "data": "05/02/2026"
+  },
+  {
+    "id": 4,
+    "categoria": "curso",
+    "valor": 213.0,
+    "data": "05/02/2026"
+  }
+]
